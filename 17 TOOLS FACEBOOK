@@ -1,0 +1,16 @@
+Tools ini berisi 17 tools lengkap khusus untuk facebook.
+
+sebenarnya tools ini udah lama,
+kalau kalian ketika pilih no toolsnya & error, coba kalian tonton videonya sampai habis, biar tools yg kita pilih bisa di pakai.
+
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install python2
+$ pkg install php
+$ pkg install git
+$ pip2 install mechanize
+$ git clone https://github.com/FR13ND8/BRUTEFORCEnew
+$ ls
+$ cd BRUTEFORCEnew
+$ ls
+$ sh new.sh
